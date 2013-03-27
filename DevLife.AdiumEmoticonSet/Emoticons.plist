@@ -393,6 +393,15 @@
         <key>Name</key>
         <string>You Did What?!?</string>
       </dict>
+      <key>rethink.gif</key>
+      <dict>
+        <key>Equivalents</key>
+          <array>
+            <string>[rethink]</string>
+          </array>
+        <key>Name</key>
+        <string>Hmm, let's rethink this.</string>
+      </dict>
     </dict>
   </dict>
 </plist>

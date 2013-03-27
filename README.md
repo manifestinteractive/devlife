@@ -278,3 +278,9 @@ When I find out that someone has accidentally overwritten my changes in git
 ![you_did_what](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/you_did_what.gif)
 
 `[you_did_what]`
+
+When I realize the solution i've been working on for day is really the wrong approach
+------
+![rethink](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/rethink.gif)
+
+`[rethink]`
