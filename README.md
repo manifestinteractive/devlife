@@ -129,7 +129,7 @@ When the project manager suddenly looks on my screen
 
 `[i_saw_that]`
 
-When they me ask if I have tested it
+When they ask me if I have tested it
 ------
 ![im_sure](https://raw.github.com/manifestinteractive/devlife/master/DevLife.AdiumEmoticonSet/im_sure.gif)
 
